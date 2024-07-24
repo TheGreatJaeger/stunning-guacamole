@@ -1,5 +1,8 @@
- {
-     "p3rsoft": {
-         "is_whitelisted": "true"
+{
+  "p3rsoft": {
+    "is_whitelisted": "true"
+  },
+  "ligmaware": {
+    "is_whitelisted": "false"
+  }
 }
- }
