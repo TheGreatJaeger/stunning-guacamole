@@ -1,5 +1,5 @@
-{
-     "p3rsoft": {
-         "whitelisted": True
-   }
+ {
+     "vendor": {
+         "is_whitelisted": true
+}
  }
